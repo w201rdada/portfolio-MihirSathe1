@@ -9,6 +9,7 @@ documentclass: book
 <!-- This won't be displayed but it will initialize your R session. Add any R libraries you need here. -->
 ```{r init,include=FALSE,echo=FALSE}
 library(magrittr)
+readLines('https://www.zotero.org/api/users/4672380/items/top?start=0&limit=null&format=bibtex&itemKey=6NR243IT&key=vzrPJYnHujxWhzRIn8Lm4kaH&v=1') %>% writeLines('references.bib')
 ```
 
 
