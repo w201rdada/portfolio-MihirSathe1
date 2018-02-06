@@ -1,4 +1,4 @@
-# The Unseen Effects of Technology {#The Effects of Screen Exposure at a Young Age}
+﻿# The Unseen Effects of Technology {#The Effects of Screen Exposure at a Young Age}
 
 #### Keywords {-}
 
@@ -27,5 +27,5 @@ knitr::include_graphics('https://imgs.xkcd.com/comics/machine_learning.png')
 
 If we find a correlation between ADHD and screen usage, we have to consider that as medicine has improved its ability to diagnose ADHD appropriately since 2001, more cases will naturally occur over time whether or not there is a change in actual ADHD rates per capita.  We will try and adjust for this medical diagnostic improvement in our analysis.  
 
-Finding a correlation between Youtube clicks and ADHD could make Youtube rethink their usage policies for children – perhaps children will be restricted to a certain number of videos per hour or will be flagged when they go over a certain amount and their parents notified.  There will likely be follow-up studies researching usage of other devices and entertainment to see if they present the same problem that Youtube did for the participants in this study.  If successful, my Machine Learning program can also be used by Youtube and the general population to search and flag children who may develop ADHD.
+Finding a correlation between Youtube clicks and ADHD could make Youtube rethink their usage policies for children – perhaps children will be restricted to a certain number of videos per hour or will be flagged when they go over a certain amount and their parents notified.  There will likely be follow-up studies researching usage of other devices and entertainment to see if they present the same problem that Youtube did for the participants in this study. If successful, my Machine Learning program can also be used by Youtube and the general population to search and flag children who may develop ADHD.
 
