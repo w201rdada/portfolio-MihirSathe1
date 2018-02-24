@@ -7,7 +7,7 @@ yaba, daba, do
 ## Parking Issues.
 Bart has a severe shortage of parking in their Eastbay stations.  Bart can study user patterns to observe how people get to the station, where they park, and which alternative methods they use when Bart parking is full.  
 
-## Carpooling – a Solution.
+## Carpooling ? a Solution.
 Our goal is to see if we can help ease the process of getting to Bart stations to make the train system more accessible for daily commuters.  After gathering data, we can additionally provide incentives for uberpool for certain riders based on where they are coming and what time they commute, to free up parking spots.
 To help gather location data, Bart can have promotions or discounts to download the Bart app.
 
@@ -18,4 +18,4 @@ data.table::fread('https://raw.githubusercontent.com/UCB-MIDS/experiments-causal
 Bicycle rights 90's officia  vape.  Listicle post-ironic vape ex.  Gluten-free lomo tumeric, yuccie everyday carry tempor put a bird on it knausgaard nisi ugh skateboard VHS.
 
 ## Other Considerations.
-If this product is implemented successfully, there is a possibility that in addition to more seamless and convenient commuting to the Bart station, there may also be an influx of total Bart riders (source).   This can cause its own set of problems such as overcrowded stations and trains.  The Bart system is limited by Transbay Tube’s capacity (source) regarding the frequency of the trains.
+If this product is implemented successfully, there is a possibility that in addition to more seamless and convenient commuting to the Bart station, there may also be an influx of total Bart riders (source).   This can cause its own set of problems such as overcrowded stations and trains.  The Bart system is limited by Transbay Tube?s capacity (source) regarding the frequency of the trains.
