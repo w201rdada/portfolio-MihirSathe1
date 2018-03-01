@@ -1,10 +1,10 @@
-﻿# The Unseen Effects of Technology {#The Effects of Screen Exposure at a Young Age}
+# Unseen Effects of Technology {#Screens-Children}
 
 #### Keywords {-}
 
 ADHD, Childhood, Youtube
 
-## Rising Childhood Problems().
+## Rising Childhood Problems.
 
 There have been an ever growing number of children diagnosed with ADHD in the United States over the past 2 decades.  The first-time diagnosis of ADHD in children rose from 2.5% in 2001 to 3.1% in 2010[@noauthor_childhood_nodate], and through this project we hope to find out one of the potential reasons why.  In US households, from 2011 to 2017 smartphone ownership rose from 52% to 98% and tablet ownership from 8% to 78% with 42% of children in 2017 owning tablets themselves, up from under 1% in 2011[@noauthor_common_nodate].  Children have more access to personal computers, gaming consoles, and on demand streaming such as Netflix, Hulu, and Youtube.  Combining devices in each household, a child can have access to high speed internet, hundreds to games, and multiple options for entertainment on demand as a distraction when they are bored or when their parents do not have time to give them sufficient attention.    
 
