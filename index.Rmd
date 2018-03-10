@@ -33,15 +33,19 @@ knitr::include_url('https://drive.google.com/file/d/0B6bobRDQR96iVEV3SXJJal9CczQ
 
 ### Abstract of my first cool idea {-}
 
+<<<<<<< HEAD
 My hypothesis is that the use of screened devices as stimulation and within that the way they are used may be leading to an increase in the number of cases in ADHD. I plan to run analysis on two groups (one with ADHD and one without) and compare their levels of screen time as children, and then build a Machine Learning algorithm to search their Youtube accounts to see if we can predict ADHD based on Youtube use patterns. I believe that we’ll find that those that clicked through more Youtube content in a short period of time will primarily be from the group with ADHD.
+=======
+(ref:abs1) Hi I'm an abstract for your first big idea! I'm also a [text reference](https://bookdown.org/yihui/bookdown/markdown-extensions-by-bookdown.html#text-references), which is a line of text you can reuse in several places. Use me to write a one paragraph abstract and place it in `index.Rmd` as well as under the title of `01.Rmd`. Once defined, you can reuse me simply by writing `(ref:abs1)` where you want this text to go.
+
+(ref:abs1)
+>>>>>>> d0372646eb57d9f3409fedd0d8adf79b0c083b1c
 
 ### Abstract of my second cool idea {-}
 
-Vero dolor  franzen letterpress.  Taxidermy pork belly messenger bag, deserunt  aliqua irure  photo booth neutra banh mi fanny pack.  Butcher fam heirloom marfa.  Tilde reprehenderit  snackwave tempor.  Qui  pop-up kitsch dolor.  Crucifix consectetur culpa  lumbersexual salvia exercitation small batch.  Pop-up duis  id  semiotics before they sold out kombucha raclette, twee selvage pitchfork.
-  
-### Abstract of my third cool idea {-}
+(ref:abs2) I'm also an abstract! And a text reference! An abstract is all three acts of your story in a tight little package. You may or may not want to give the ending away, but if you think there's a chance an audience will read this and nothing else, you'd better convey your argument here in miniature. People are busy after all, and there's just so much good tv on the Internet these days.
 
-Activated charcoal succulents ex, pop-up minim neutra pork belly nulla  helvetica semiotics dolor  magna jianbing.  Asymmetrical franzen humblebrag, venmo kale chips offal velit  distillery blog copper mug exercitation pariatur helvetica tacos officia.  Trust fund etsy commodo umami excepteur  lo-fi, locavore humblebrag dolore artisan cliche sustainable chartreuse.  Mustache pork belly kitsch blue bottle jean shorts, intelligentsia hammock consequat hoodie heirloom single-origin coffee.  Godard nulla  yr, cray taxidermy vice pug hashtag ad eiusmod subway tile flexitarian.  Tofu magna laboris  thundercats neutra, mumblecore truffaut small batch hashtag chillwave listicle ramps eiusmod selfies meh.  Bushwick butcher cupidatat  hella organic.
+(ref:abs2)
 
 ## About the author {-}
 
